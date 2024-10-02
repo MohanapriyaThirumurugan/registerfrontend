@@ -1,8 +1,8 @@
 import React from 'react'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
-import Register from './compontent/register'
-import Reset from './compontent/reset'
-import Resetrequest from './compontent/resetrequest'
+import Register from './compontent/Register.jsx'
+import Reset from './compontent/Reset.jsx'
+import Resetrequest from './compontent/Resetrequest.jsx'
 import Login from './compontent/Login'
 
 const App = () => {
